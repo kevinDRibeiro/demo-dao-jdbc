@@ -1,11 +1,11 @@
 O objetivo deste projeto é demonstrar como acessar um banco de dados com JDBC. O projeto será criado usando o Eclipse IDE, que permitirá que os usuários acessem facilmente o banco de dados.
 
-Recursos
+Recursos:
 
 MySQL
 JDBC
 
-Instruções
+Instruções:
 
 Instale o Eclipse IDE.
 Instale o MySQL.
