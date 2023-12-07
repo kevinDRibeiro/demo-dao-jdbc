@@ -4,6 +4,7 @@ Recursos
 
 MySQL
 JDBC
+
 Instruções
 
 Instale o Eclipse IDE.
